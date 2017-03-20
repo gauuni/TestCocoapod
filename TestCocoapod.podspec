@@ -30,7 +30,7 @@ s.ios.deployment_target = '9.0'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 
-  s.source_files = 'TestCocoapod/Classes/**/*'
+  s.source_files = 'TestCocoapod/Classes/**/*.{swift}'
   
   # s.resource_bundles = {
   #   'TestCocoapod' => ['TestCocoapod/Assets/*.png']
