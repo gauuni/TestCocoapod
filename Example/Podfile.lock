@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (5.1.1)
+  - Quick (1.0.0)
+  - TestCocoapod (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 5.1.1)
+  - Quick (~> 1.0.0)
+  - TestCocoapod (from `../`)
+
+EXTERNAL SOURCES:
+  TestCocoapod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
+  Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
+  TestCocoapod: 60fa64531d13945e1aa1ded8ecd8b347b4aa6dba
+
+PODFILE CHECKSUM: 8cc4ebe37162e806d2644e0ba866d191df9d059e
+
+COCOAPODS: 1.2.0
