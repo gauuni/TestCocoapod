@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestCocoapod'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A utilities for all project'
 s.ios.deployment_target = '9.0'
 
